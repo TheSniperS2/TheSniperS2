@@ -10,10 +10,9 @@
 <pre>
 💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
 📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
+📝 I have a strong interest in building Frontend Uis
 🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
+🌟 Main languages: Python, C++, Java, SQL, PHP
 🚩 Interested in Full Stack Machine Learning Application development
 </pre>
 
@@ -49,13 +48,13 @@
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/stefanos-stamoulis/" target="_blank">
+<a href="https://www.linkedin.com/in/franco-muñoz-inf/" target="_blank">
   <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/steve.frontdev/" target="_blank">
+<a href="https://www.instagram.com/fmg_yio/" target="_blank">
   <img align="center" alt="Stefanos Stamoulis | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:sstamoulis.wd@gmail.com" >
+<a href="mailto:francomgbkn@gmail.com" >
   <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
